@@ -1,0 +1,8 @@
+phase modulation with
+
+plane sin, triangle wave - frequency, sinc option
+with noise (lp, hp, bp)
+sidechain
+itself
+
+
